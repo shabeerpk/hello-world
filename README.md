@@ -1,2 +1,3 @@
 # hello-world
-Begining
+# Begining
+# just a noob, a beginner in programming
